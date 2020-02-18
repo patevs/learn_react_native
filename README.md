@@ -15,7 +15,10 @@ developers to use `React` along with native platform capabilities.
 * [`react-native`](https://github.com/facebook/react-native)
   * [Website](https://facebook.github.io/react-native/)
   * [Documentation](https://facebook.github.io/react-native/docs/getting-started.html)
-*[`react`](https://github.com/facebook/react)
+
+[](.)
+
+* [`react`](https://github.com/facebook/react)
   * [Website](https://reactjs.org/)
   * [Documentation](https://reactjs.org/docs/getting-started.html)
 
@@ -24,9 +27,9 @@ developers to use `React` along with native platform capabilities.
 ## Expo CLI Quickstart
 
 * [`expo-cli`](https://github.com/expo/expo-cli)
-* [npmjs/expo-cli](https://www.npmjs.com/package/expo-cli)
-* [Website](https://expo.io/)
-* [Documentation](https://docs.expo.io/versions/latest/workflow/expo-cli/)
+  * [npmjs/expo-cli](https://www.npmjs.com/package/expo-cli)
+  * [Website](https://expo.io/)
+  * [Documentation](https://docs.expo.io/versions/latest/workflow/expo-cli/)
 
 Assuming that you have [Node 10 LTS](https://nodejs.org/en/download/) or greater installed, you can use `npm` to install the Expo CLI command line utility:
 
