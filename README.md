@@ -13,6 +13,7 @@ developers to use *React* along with native platform capabilities.
 ## Links & Resouces
 
 * [`react-native`](https://github.com/facebook/react-native)
+* [Website](https://facebook.github.io/react-native/)
 * [Documentation](https://facebook.github.io/react-native/docs/getting-started.html)
 
 ---
