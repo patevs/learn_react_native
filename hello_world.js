@@ -1,5 +1,5 @@
 /**
- *  0_hello_world.js
+ *  hello_world.js
  */
 
 import React, { Component } from 'react';
