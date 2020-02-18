@@ -20,12 +20,19 @@ developers to use *React* along with native platform capabilities.
 
 ## Expo CLI Quickstart
 
+* [`expo-cli`](https://github.com/expo/expo-cli)
+* [npmjs/expo-cli](https://www.npmjs.com/package/expo-cli)
+* [Website](https://expo.io/)
+* [Documentation](https://docs.expo.io/versions/latest/workflow/expo-cli/)
+
 Assuming that you have [Node 10 LTS](https://nodejs.org/en/download/) or greater installed, you can use `npm` to install the Expo CLI command line utility:
 
 ```bash
 $ npm install --global expo-cli
 # or shorthand
 $ npm i -g expo-cli
+# verify installation
+$ expo --version
 ```
 
 Then run the following commands to create a new React Native project called "AwesomeProject":
