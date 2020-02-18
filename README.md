@@ -47,3 +47,18 @@ npm start # you can also use: expo start
 This will start a development server for you.
 
 ---
+
+## React Native CLI Quickstart
+
+Requires:
+
+* `NodeJS` 8.3 or newer
+* `Python2`
+* `JDK8`
+* [`Android Studio`](https://developer.android.com/studio/index.html)
+  * Android SDK
+  * Android SDK Platform
+  * Performance (Intel ® HAXM)
+  * Android Virtual Device
+
+---
