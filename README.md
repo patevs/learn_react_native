@@ -68,4 +68,12 @@ Requires:
   * Performance (Intel ® HAXM)
   * Android Virtual Device
 
+### Create a New Application
+
+React Native has a built-in command line interface, which you can use to generate a new project. You can access it without installing anything globally using `npx`, which ships with Node.js. Let's create a new React Native project called "AwesomeProject":
+
+```bash
+npx react-native init AwesomeProject
+```
+
 ---
