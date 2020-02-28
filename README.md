@@ -76,4 +76,11 @@ React Native has a built-in command line interface, which you can use to generat
 npx react-native init AwesomeProject
 ```
 
+Run `npx react-native run-android` inside your React Native project folder:
+
+```bash
+cd AwesomeProject
+npx react-native run-android
+```
+
 ---
