@@ -85,3 +85,10 @@ npx react-native run-android
 ```
 
 ---
+
+## Start Android Emulator from Command Line
+
+* [Emulator Command Line](https://developer.android.com/studio/run/emulator-commandline)
+* [Launch Android Emulator](https://stackoverflow.com/questions/4974568/how-do-i-launch-the-android-emulator-from-the-command-line)
+
+---
