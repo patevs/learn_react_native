@@ -15,6 +15,7 @@ developers to use `React` along with native platform capabilities.
 * [`react-native`](https://github.com/facebook/react-native)
   * [Website](https://facebook.github.io/react-native/)
   * [Documentation](https://facebook.github.io/react-native/docs/getting-started.html)
+    * [Running on Device](https://reactnative.dev/docs/running-on-device)
   * [`awesome-react-native`](https://github.com/jondot/awesome-react-native)
 
 [](.)
