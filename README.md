@@ -24,6 +24,10 @@ developers to use `React` along with native platform capabilities.
   * [Website](https://reactjs.org/)
   * [Documentation](https://reactjs.org/docs/getting-started.html)
 
+[](.)
+
+* [`devhub`](https://github.com/devhubapp/devhub) TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop
+
 ---
 
 ## Expo CLI Quickstart
