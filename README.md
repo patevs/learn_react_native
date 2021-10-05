@@ -27,6 +27,7 @@ developers to use `React` along with native platform capabilities.
 [](.)
 
 * [`devhub`](https://github.com/devhubapp/devhub) TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop
+* [`react-native-universal-monorepo`](https://github.com/mmazzarolo/react-native-universal-monorepo) React Native boilerplate supporting multiple platforms: Android, iOS, macOS, Windows, web, browser extensions, Electron.
 
 ---
 
