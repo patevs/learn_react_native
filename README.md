@@ -24,9 +24,10 @@ developers to use `React` along with native platform capabilities.
   * [Website](https://reactjs.org/)
   * [Documentation](https://reactjs.org/docs/getting-started.html)
 
-[](.)
+### Example Projects
 
 * [`devhub`](https://github.com/devhubapp/devhub) TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop
+* [`nzcovidtracer-app`](https://github.com/minhealthnz/nzcovidtracer-app) Front-end of the NZ COVID Tracer app.
 * [`react-native-universal-monorepo`](https://github.com/mmazzarolo/react-native-universal-monorepo) React Native boilerplate supporting multiple platforms: Android, iOS, macOS, Windows, web, browser extensions, Electron.
 
 ---
